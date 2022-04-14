@@ -25,9 +25,3 @@ class StaffList {
     }
 }
 
-// case 3
-// 10000
-// 11000
-// get balance
-// 1000
-// get balance
